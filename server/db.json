@@ -1,0 +1,19 @@
+{
+  "groceries": [
+    {
+      "name": "milk",
+      "amount": "1L",
+      "id": 1
+    },
+    {
+      "name": "candy",
+      "amount": "2 bag",
+      "id": 2
+    },
+    {
+      "name": "kefir",
+      "amount": "1 L",
+      "id": 3
+    }
+  ]
+}
